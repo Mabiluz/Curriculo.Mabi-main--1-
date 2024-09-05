@@ -1,0 +1,21 @@
+body {
+    color: rgb(255, 168, 168);
+    background-color: rgb(255, 168, 168);
+  }
+  img {
+    position: absolute;
+    width: 260px;
+    height: 260px;
+   border-radius: 50%;
+   margin:50px;
+   padding: 250px;
+  } /*# sourceMappingURL=styles.css.map */
+
+
+  main{
+    display:flex;
+    flex-direction: column;
+    margin-right: 50%;
+    padding-bottom: 100%;
+    background-color:  rgb(255, 210, 210); ;
+  }
